@@ -105,10 +105,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 You can use whatever combination of software you might already have and it's working for you, I'll just give some examples that I use in my setup.
 
 If you want to run it in Python, I used the following:
-- Python 3.10.16
-- psutil 5.9.0
-- pymem 1.14.0
-- python-rtmidi 1.5.8
+- python==3.10.16
+- psutil==5.9.0
+- pymem==1.14.0
+- python-rtmidi==1.5.8
 - pyinstaller to make the *.exe
 
 ### Prerequisites
